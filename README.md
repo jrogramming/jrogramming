@@ -42,9 +42,10 @@ A full deck has four suits, so here is mine:
 ![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white)
 
-**♥ Data Engineering & Cloud**<br>
+**♥ Data**<br>
 ![Databricks](https://img.shields.io/badge/Databricks-D7263D?style=for-the-badge&logo=databricks&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-D7263D?style=for-the-badge&logo=apachespark&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-D7263D?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **♦ BI & Visualization**<br>
@@ -52,8 +53,7 @@ A full deck has four suits, so here is mine:
 ![Tableau](https://img.shields.io/badge/Tableau-D7263D?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-D7263D?style=for-the-badge&logo=looker&logoColor=white)
 
-**♣ Data Science & Games**<br>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=white)
+**♣ Games**<br>
 ![Unity](https://img.shields.io/badge/Unity-1a1a1a?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=white)
 
