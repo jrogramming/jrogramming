@@ -26,7 +26,7 @@ I have years of work history in entertainment e-commerce, from marketing and ret
 
 ## ♠ My deck of skills
 
-A full deck has four suits, so here is mine:
+My four suits:
 
 <div align="center">
 
