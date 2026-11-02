@@ -24,9 +24,8 @@ My career interest is in **human-centric data**. Whether it's marketing or fraud
 
 I have years of work history in entertainment e-commerce, from marketing and retail to data, and I find great fulfillment in continuing to pursue it in any form, especially related to gaming, as it is the utmost people-first experience.
 
-## ♠ My deck of skills
+## ♠ Skillsuit
 
-My four suits:
 
 <div align="center">
 
