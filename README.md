@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:8b1e2d,100:1a1a1a&height=180&section=header&text=Hi%2C%20I'm%20Jennifer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%26%20Analyst&descSize=20&descAlignY=60" width="100%" alt="Hi, I'm Jennifer - Data Engineer and Analyst"/>
 
 <div align="center">
 
