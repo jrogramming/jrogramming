@@ -18,11 +18,18 @@
 
 ## ♥ About me
 
-Hello! I'm Jennifer, game enthusiast, data wrangler, and University of Virginia alum.
+Hello! I'm Jennifer, a recent graduate from the University of Virginia. 
 
-My career interest is in **human-centric data**. Whether it's marketing or fraud detection, the data-driven approach to solving issues for and by people is my interest. I'd like to resolve issues with methodical, possibly statistical, methods, observing historical precedent in numbers and pairing it with human judgment and insight to see the people in the data and decide what the insights and decisions should be.
+When out and about on campus I was often pointed out by which of my three jobs at the time they recognize me from whether it’s “the computer game design TA who put my favorite game into the review”, “the Scholars’ Lab makerspace boss that designed a custom embroidery vector for me while operating a laser cutter and baking somebody’s clay dog”, or best yet: the literal face of the CS program brochure handed out to any and everyone at open house. 
 
-I have years of work history in entertainment e-commerce, from marketing and retail to data, and I find great fulfillment in continuing to pursue it in any form, especially related to gaming, as it is the utmost people-first experience.
+Pretty big accomplishment for an applied statistics major.
+
+While only a CS minor, I can’t say being mistaken for the walking and breathing embodiment of software development is unfounded. Video games have been part of my life for as long as I can remember. My parents are immigrants and were busy working so I took it upon myself at age 4 to learn reading with Pokémon Platinum on my rose gold DS and the closed captioning of the anime on Cartoon Network. Despite UVA not being a major player in the game dev scene, I made it my personal mission to make it one. I threw myself into every single class, club, and event related to game development and then expanded it when I helped teach the game design course, worked game merchendise production, and took it upon myself to make the motion capture workflow in the animation course so there'd be cooler options than whatever was in the animation libraries.
+
+That's what I do for fun, except I also find statistics and data science fun too. Everyday is so lovely with 12 hours of screentime. I've been fascinated with so many facets of data science at different ages. My dad showing me the Logitech filters on Skype call had me fascinated with computer vision. In 7th grade I'd tinker around with AI music synthesizers not knowing how quickly they would progress in half a decade. In 10th grade I took AP Statistics out of spite but ended up falling completely in love with the subject and the sheer applicability of it in life. I never knew all of those were related and could be strung together until I was browsing career choices and majors and saw that I could have it ALL.
+
+And so I did.
+
 
 ## ♠ Skillsuit
 
