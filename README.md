@@ -1,8 +1,12 @@
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a1a,50:D7263D,100:1a1a1a&height=60&section=header&reversal=false" width="100%" alt=""/>
+
 <div align="center">
 
+### ༺ &nbsp;&nbsp; ♠ &nbsp;&nbsp; ༻
+
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=600&color=D7263D&center=true&vCenter=true&width=560&lines=Data+Science;Game+Development;Marketing" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=600&color=D7263D&center=true&vCenter=true&width=560&lines=Data+Science;Game+Development;Marketing" alt="Typing animation"/>
 </a>
 
 <p align="center">
@@ -12,7 +16,7 @@
        style="border-radius: 50%;" />
 </p>
 
-### ♠ ♥ ♦ ♣
+### ♠ &nbsp;&nbsp; ♥ &nbsp;&nbsp; ♦ &nbsp;&nbsp; ♣
 
 </div>
 
@@ -24,12 +28,22 @@ When out and about on campus I was often pointed out by which of my three jobs a
 
 Pretty big accomplishment for an applied statistics major.
 
-While only a CS minor, I can’t say being mistaken for the walking and breathing embodiment of software development is unfounded. Video games have been part of my life for as long as I can remember. My parents are immigrants and were busy working so I took it upon myself at age 4 to learn reading with Pokémon Platinum on my rose gold DS and the closed captioning of the anime on Cartoon Network. Despite UVA not being a major player in the game dev scene, I made it my personal mission to make it one. I threw myself into every single class, club, and event related to game development and then expanded it when I helped teach the game design course, worked game merchendise production, and took it upon myself to make the motion capture workflow in the animation course so there'd be cooler options than whatever was in the animation libraries.
+While only a CS minor, I can’t say being mistaken for the walking and breathing embodiment of software development is unfounded. Video games have been part of my life for as long as I can remember. My parents are immigrants and were busy working so I took it upon myself at age 4 to learn reading with Pokémon Platinum on my rose gold DS and the closed captioning of the anime on Cartoon Network. 
 
-That's what I do for fun, except I also find statistics and data science fun too. Everyday is so lovely with 12 hours of screentime. I've been fascinated with so many facets of data science at different ages. My dad showing me the Logitech filters on Skype call had me fascinated with computer vision. In 7th grade I'd tinker around with AI music synthesizers not knowing how quickly they would progress in half a decade. In 10th grade I took AP Statistics out of spite for an elective but ended up falling completely in love with the subject and the sheer applicability of it in life. I never knew all of those were related and could be strung together until I was browsing career choices and majors and saw that I could have it ALL.
+Despite UVA not being a major player in the game dev scene, I made it my personal mission to make it one. I threw myself into every single class, club, and event related to game development and then expanded it when I helped teach the game design course, worked game merchendise production, and took it upon myself to make the motion capture workflow in the animation course so there'd be cooler options than whatever was in the animation libraries.
+
+
+That's what I do for fun, except I also find statistics and data science fun too. Everyday is so lovely with 12 hours of screentime. 
+
+I've been fascinated with so many facets of data science at different ages. My dad showing me the Logitech filters on Skype call had me fascinated with computer vision. In 7th grade I'd tinker around with AI music synthesizers not knowing how quickly they would progress in half a decade. In 10th grade I took AP Statistics out of spite for an elective but ended up falling completely in love with the subject and the sheer applicability of it in life. I never knew all of those were related and could be strung together until I was browsing career choices and majors and saw that I could have it ALL.
 
 And so I did.
 
+<div align="center">
+
+### - &nbsp;&nbsp;♜ &nbsp;&nbsp;-
+
+</div>
 
 ## ♠ Skillsuit
 
@@ -60,6 +74,13 @@ And so I did.
 
 </div>
 
+<div align="center">
+
+
+
+### ♠ &nbsp;&nbsp; ♥ &nbsp;&nbsp; ♦ &nbsp;&nbsp; ♣
+</div>
+
 ## ♦ Let's connect
 
 <div align="center">
@@ -67,8 +88,9 @@ And so I did.
 [![Portfolio](https://img.shields.io/badge/Portfolio-8b1e2d?style=for-the-badge&logo=githubpages&logoColor=white)](https://jrogramming.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferttruong/)
 
-### ♣ ♦ ♥ ♠
+### ༺  &nbsp;&nbsp;♥ &nbsp;&nbsp; ༻
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:8b1e2d,100:1a1a1a&height=100&section=footer" width="100%" alt=""/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a1a,50:D7263D,100:1a1a1a&height=60&section=footer&reversal=true" width="100%" alt=""/>
