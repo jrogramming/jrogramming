@@ -59,7 +59,6 @@ I have years of work history in entertainment e-commerce, from marketing and ret
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8b1e2d?style=for-the-badge&logo=githubpages&logoColor=white)](https://jrogramming.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferttruong/)
-[![Email](https://img.shields.io/badge/Email-8b1e2d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenniferthaotruong@gmail.com)
 
 ### ♣ ♦ ♥ ♠
 
