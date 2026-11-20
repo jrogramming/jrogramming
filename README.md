@@ -10,7 +10,7 @@
 </a>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQHPZo0KyeXj1A/profile-displayphoto-scale_400_400/B4EZ7VpvnzIkAk-/0/1781700951349?e=1795046400&v=beta&t=LuExkNDGVG1eRHJWYc-plFosua9RNiwuaEx42jkvbQ8"
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQHPZo0KyeXj1A/profile-displayphoto-crop_800_800/B4EZ7VpvnzIkAM-/0/1781700951349?e=1796860800&v=beta&t=h9PzKKd8hnpSGRLL4OJJYPksC0pJHGJpBkjTWaImxG8"
        width="200"
        alt="Profile Picture"
        style="border-radius: 50%;" />
